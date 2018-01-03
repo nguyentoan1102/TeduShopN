@@ -7,12 +7,15 @@ namespace TeduShop.Model.Models
     public class OrderDetail
     {
         [Key]
-        [Column(Order =1)]
+        [Column(Order = 1)]
         public int OrderID { set; get; }
 
         [Key]
         [Column(Order = 2)]
         public int ProductID { set; get; }
+        public int ColorId { get; set; }
+
+        public int SizeId { get; set; }
 
         public int Quantitty { set; get; }
 
@@ -21,5 +24,10 @@ namespace TeduShop.Model.Models
 
         [ForeignKey("ProductID")]
         public virtual Product Product { set; get; }
+        [ForeignKey("ColorId")]
+        public virtual Color Color { set; get; }
+
+        [ForeignKey("SizeId")]
+        public virtual Size Size { set; get; }
     }
 }

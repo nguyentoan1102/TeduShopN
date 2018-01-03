@@ -7,7 +7,6 @@ E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.UnitTest\bin\Debug\Microsoft.Vi
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojResolveAssemblyReference.cache
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csproj.CoreCompileInputs.cache
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb

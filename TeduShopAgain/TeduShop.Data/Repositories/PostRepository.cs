@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using System.Linq;
 using TeduShop.Data.Infrastructure;
 using TeduShop.Model.Models;
-using System.Linq;
 
 namespace TeduShop.Data.Repositories
 {
@@ -28,9 +26,7 @@ namespace TeduShop.Data.Repositories
                         select p;
 
             totalRow = query.Count();
-
             query = query.Skip((pageIndex - 1) * pageSize).Take(pageSize);
-
             return query;
         }
     }

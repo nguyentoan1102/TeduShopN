@@ -1,6 +1,5 @@
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.Common\bin\Debug\TeduShop.Common.dll
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
-E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.Common\obj\Debug\TeduShop.Common.csprojResolveAssemblyReference.cache
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CoreCompileInputs.cache
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.Common\obj\Debug\TeduShop.Common.dll
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.Common\obj\Debug\TeduShop.Common.pdb

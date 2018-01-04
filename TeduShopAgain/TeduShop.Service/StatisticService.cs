@@ -20,7 +20,8 @@ namespace TeduShop.Service
 
         public IEnumerable<RevenueStatisticViewModel> GetRevenueStatistic(string fromDate, string toDate)
         {
-            return _orderRepository.GetRevenueStatistic(fromDate, toDate);
+            throw new System.NotImplementedException();
         }
+
     }
 }

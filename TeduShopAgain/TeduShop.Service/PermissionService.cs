@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using TeduShop.Data.Infrastructure;
 using TeduShop.Data.Repositories;
@@ -36,17 +35,17 @@ namespace TeduShop.Service
 
         public ICollection<Permission> GetByFunctionId(string functionId)
         {
-            return _permissionRepository.GetMulti(x => x.FunctionId == functionId, new string[] { "AppRole", "AppRole" }).Where(x => x.AppRole.Name != "Admin").toList();
+            return _permissionRepository.GetMulti(x => x.FunctionId == functionId, new string[] { "AppRole", "AppRole" }).Where(x => x.AppRole.Name != "Admin").ToList();
         }
 
         public ICollection<Permission> GetByUserId(string userId)
         {
-            throw new NotImplementedException();
+            return _permissionRepository.GetByUserId(userId);
         }
 
         public void SaveChange()
         {
-            throw new NotImplementedException();
+            _unitOfWork.Commit();
         }
     }
 }

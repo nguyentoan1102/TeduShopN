@@ -1,6 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Xml.Linq;
 using TeduShop.Model.Abstract;
 
 namespace TeduShop.Model.Models
@@ -30,7 +29,7 @@ namespace TeduShop.Model.Models
         public string MoreImages { set; get; }
 
         public decimal Price { set; get; }
-
+        public decimal OriginalPrice { set; get; }
         public decimal? PromotionPrice { set; get; }
         public int? Warranty { set; get; }
 

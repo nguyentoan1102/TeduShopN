@@ -16,6 +16,6 @@ namespace TeduShop.Model.Models
         }
 
         public virtual string Description { get; set; }
-        public bool Name { get; set; }
+
     }
 }

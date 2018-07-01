@@ -13,7 +13,6 @@ E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.Model\obj\Debug\TeduShop.Model.
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.Model\obj\Debug\TeduShop.Model.csproj.CoreCompileInputs.cache
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.Model\obj\Debug\TeduShop.Model.dll
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
-D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache
 D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Model\obj\Debug\TeduShop.Model.csproj.CoreCompileInputs.cache
 D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Model\obj\Debug\TeduShop.Model.dll
 D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Model\obj\Debug\TeduShop.Model.pdb

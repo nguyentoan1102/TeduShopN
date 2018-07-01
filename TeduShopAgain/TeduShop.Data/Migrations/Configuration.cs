@@ -4,6 +4,7 @@
     using Microsoft.AspNet.Identity.EntityFramework;
     using System;
     using System.Collections.Generic;
+    using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Data.Entity.Validation;
     using System.Diagnostics;
@@ -15,7 +16,7 @@
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(TeduShopDbContext context)
@@ -66,7 +67,6 @@
                     new Function() {ID = "REVENUES",Name = "Báo cáo doanh thu",ParentId = "REPORT",DisplayOrder = 1,Status = true,URL = "/main/report/revenues",IconCss = "fa-bar-chart-o"  },
                     new Function() {ID = "ACCESS",Name = "Báo cáo truy cập",ParentId = "REPORT",DisplayOrder = 2,Status = true,URL = "/main/report/visitor",IconCss = "fa-bar-chart-o"  },
                     new Function() {ID = "READER",Name = "Báo cáo độc giả",ParentId = "REPORT",DisplayOrder = 3,Status = true,URL = "/main/report/reader",IconCss = "fa-bar-chart-o"  },
-
                 });
                 context.SaveChanges();
             }
@@ -150,6 +150,7 @@
                 context.SaveChanges();
             }
         }
+
         private void CreateSize(TeduShop.Data.TeduShopDbContext context)
         {
             if (context.Sizes.Count() == 0)
@@ -183,6 +184,7 @@
                 context.SaveChanges();
             }
         }
+
         private void CreateFooter(TeduShopDbContext context)
         {
             if (context.Footers.Count(x => x.ID == CommonConstants.DefaultFooterId) == 0)
@@ -209,7 +211,7 @@
                         Status =true,
                         Url ="#",
                         Image ="/Assets/client/images/bag.jpg",
-                        Content =@" <h2>FLAT 50% 0FF</h2>
+                        Content =@"	<h2>FLAT 50% 0FF</h2>
                                 <label>FOR ALL PURCHASE <b>VALUE</b></label>
                                 <p>Lorem ipsum dolor sit amet, consectetur
                             adipisicing elit, sed do eiusmod tempor incididunt ut labore et </ p >
@@ -222,9 +224,7 @@
                         Image ="/Assets/client/images/bag1.jpg",
                     Content=@"<h2>FLAT 50% 0FF</h2>
                                 <label>FOR ALL PURCHASE <b>VALUE</b></label>
-
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et </ p >
-
                                 <span class=""on-get"">GET NOW</span>"},
                 };
                 context.Slides.AddRange(listSlide);

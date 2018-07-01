@@ -51,12 +51,12 @@ namespace TeduShop.Data
             return new TeduShopDbContext();
         }
 
-        protected override void OnModelCreating(DbModelBuilder builder)
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            builder.Entity<IdentityRole>().HasKey<string>(r => r.Id).ToTable("AppRoles");
-            builder.Entity<IdentityUserRole>().HasKey(i => new { i.UserId, i.RoleId }).ToTable("AppUserRoles");
-            builder.Entity<IdentityUserLogin>().HasKey(i => i.UserId).ToTable("AppUserLogins");
-            builder.Entity<IdentityUserClaim>().HasKey(i => i.UserId).ToTable("AppUserClaims");
+            modelBuilder.Entity<IdentityRole>().HasKey<string>(r => r.Id).ToTable("AppRoles");
+            modelBuilder.Entity<IdentityUserRole>().HasKey(i => new { i.UserId, i.RoleId }).ToTable("AppUserRoles");
+            modelBuilder.Entity<IdentityUserLogin>().HasKey(i => i.UserId).ToTable("AppUserLogins");
+            modelBuilder.Entity<IdentityUserClaim>().HasKey(i => i.UserId).ToTable("AppUserClaims");
         }
     }
 }

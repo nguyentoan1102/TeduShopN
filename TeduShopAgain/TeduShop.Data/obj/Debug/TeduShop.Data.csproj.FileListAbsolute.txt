@@ -41,5 +41,5 @@ D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Data\bin\Debug\EntityFr
 D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.CopyComplete
-D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.InitializeDB.resources
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.Initialize.resources
 D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.GenerateResource.cache

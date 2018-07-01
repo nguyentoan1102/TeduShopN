@@ -11,3 +11,17 @@ E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.UnitTest\obj\Debug\TeduShop.Uni
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csproj.CoreCompileInputs.cache
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.dll
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.pdb
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojResolveAssemblyReference.cache
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csproj.CoreCompileInputs.cache
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csproj.CopyComplete

@@ -7,13 +7,13 @@ namespace TeduShop.Data.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.2.0-61023")]
-    public sealed partial class InitializeReponsitory : IMigrationMetadata
+    public sealed partial class InitializeDB : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(InitializeReponsitory));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(InitializeDB));
         
         string IMigrationMetadata.Id
         {
-            get { return "201712271748525_InitializeReponsitory"; }
+            get { return "201807010739557_InitializeDB"; }
         }
         
         string IMigrationMetadata.Source

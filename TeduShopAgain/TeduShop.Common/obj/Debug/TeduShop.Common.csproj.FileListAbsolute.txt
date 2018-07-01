@@ -4,3 +4,8 @@ E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.Common\obj\Debug\TeduShop.Commo
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CoreCompileInputs.cache
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.Common\obj\Debug\TeduShop.Common.dll
 E:\TeduShop\TeduShopAgain\TeduShopAgain\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CoreCompileInputs.cache
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+D:\TeduShop\TeduShopNew\TeduShopN\TeduShopAgain\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
